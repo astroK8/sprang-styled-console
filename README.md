@@ -8,8 +8,8 @@ Output to chrome console with style
 ```typescript
 import {styledConsoleLog, getRedString, getGreenString}
 
-let redMsg = 'Hello';
-let greenMsg = 'World';
+let redMsg = getRedString('Hello');
+let greenMsg = getGreenString('World');
 
 let data={
     value:5;
