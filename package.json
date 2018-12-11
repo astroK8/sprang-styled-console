@@ -2,9 +2,9 @@
   "name": "sprang-styled-console",
   "version": "1.0.0",
   "description": "Chrome console output with style",
-  "main": "build/sprang-styled-console.js",
-  "module": "es/sprang-styled-console.js",
-  "typings": "build/sprang-styled-console.d.ts",
+  "main": "build/styled-console.js",
+  "module": "es/styled-console.js",
+  "typings": "build/styled-console.d.ts",
   "dependencies": {},
   "devDependencies": {
     "typescript": "^3.1.6"
