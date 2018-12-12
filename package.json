@@ -1,6 +1,6 @@
 {
   "name": "sprang-styled-console",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Chrome console output with style",
   "main": "build/styled-console.js",
   "module": "es/styled-console.js",
