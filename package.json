@@ -27,8 +27,8 @@
     "url": "git+https://github.com/astroK8/sprang-styled-console.git"
   },
   "keywords": [
-    "angular",
-    "decorators"
+    "style",
+    "console"
   ],
   "author": "Aymeric Trotignon",
   "license": "MIT",
